@@ -1,9 +1,13 @@
 # Control_Inteligente
 
 Autor: Johnnatan Ruiz
+
 Correo: jnruizs@unal.edu.co
+
 Universidad Nacional de Colombia sede Bogotá
+
 Materia: Control inteligente
+
 Profesor: Jesús Delgado.
 
 
@@ -19,3 +23,7 @@ error de generación, se realizó una comparación entre la serie de  ́
 datos reales y la prediccion de la red neuronal. Para obtener estás ́
 graficas se utilizó el lenguaje de programación de Python y su 
 librería de Tensorflow. 
+
+
+Para más información detallada acerca del proyecto dirigirse al 
+artículo adjunto en la carpeta de "Redes Neuronales".
